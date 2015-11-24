@@ -25,7 +25,7 @@ Gem::Specification.new do |spec|
 
   # Runtime
   spec.add_runtime_dependency "aws-sdk-core", "~> 2.1"
-  spec.add_runtime_dependency "rom", "~> 0.7.0"
+  spec.add_runtime_dependency "rom", "~> 0.7"
 
   # Development
   spec.add_development_dependency "activesupport", "~> 4.2.0"
